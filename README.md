@@ -9,3 +9,5 @@ The minimum requirements are:
 { Flask==1.0.2;
 numpy==1.16.2;
 scikit-learn==0.20.3 }
+
+The dataset used for this project is taken from "https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data"
