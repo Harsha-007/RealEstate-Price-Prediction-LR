@@ -2,7 +2,9 @@
 This project is about building a Linear Regression model that can predict the house prices in Bangalore and a website where user can give the input parameters and get the estimated price.
 
 Instructions for running the application:
+
 ---- Run the 'server.py' file in IDE
+
 ---- Launch the html file in the frontend directory.
 
 The web application can be run through the main file 'web_app.html' in the folder 'Frontend'
